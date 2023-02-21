@@ -1,2 +1,2 @@
-# batata-bit
-Cryptocurrency landing page project 
+# growing bussiness
+landing page project 
