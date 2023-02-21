@@ -1,0 +1,56 @@
+.rigth img{
+  max-width: 300px;
+}
+
+.left{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.left p{
+  text-align: center;
+}
+
+.left img{
+  align-self: center;
+}
+.left button{
+  align-self: center;
+}
+.benefits h2{
+  text-align: center;
+}
+
+.benefits p{
+  margin: 0 20px;
+  text-align: center;
+}
+
+.benefits .benefit{
+  height: auto;
+  width: auto;
+  max-height: 500px;
+}
+
+.benefit h2{
+  text-align: center;
+}
+
+
+section .planes{
+  width: 320px;
+}
+.plans-container{
+  width: 320px;
+}
+
+
+
+
+.contact--infocontainer textarea {
+  width: auto;
+}
+
+header .callToAction{
+ top: calc(100% - 20px);
+}
